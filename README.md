@@ -2,7 +2,7 @@
 
 CODE IS COMMENTED ALL THROUGHOUT!
 
-This ripo has been made to display my capstone that i did in ~7 days. Its about an avalanche prediciton system and evaluation of features most critical to an avalanche developed during my time at the DIGITAL FUTURES ACADEMY. 
+Avalanche prediciton system and evaluation of features most critical to an avalanche developed during my time at the DIGITAL FUTURES ACADEMY - 7~ days
 
 --- INTRODUCTION:
 Many past research in avalanhce prediction and analysis outlines time series data and weather build up. Most of said reserach connects to real time weather stations and data about avalanches within an area or resort that one works with, creating machine learning solutions that work with the build up of weather data and past occurances to predict the danger or avalanche activity given within the trained area. Gerenually for single reseracgers, gethering avalanche data if not wroking with an area is a time consuming task, it is infact possible to get said data but is behind many security measures and excess time which i did not have for this project. 
