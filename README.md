@@ -1,4 +1,4 @@
-# capstone 2023 - Avalanche analysis and prediction system
+# capstone 2023 - Avalanche analysis and prediction system - WORK IN PROGRESS
 
 CODE IS COMMENTED ALL THROUGHOUT!
 
